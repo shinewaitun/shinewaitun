@@ -21,6 +21,7 @@ I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -43,7 +44,20 @@ I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a
 
 ## 🌟 Featured Projects
 
-### [Towards21 Learning Center & Job Agency](https://github.com/shinewaitun/towards21)
+### [Job Recruitment and Offering Management System](https://github.com/shinewaitun/Recruitment_Management_System_SpringBoot)
+- Role: Full-Stack Developer
+- Team: Collaborated with 8 full-stack developers
+- Backend: **Spring Boot**, **Hibernate**, **JPA**, **Spring Security**, **Thymeleaf**, **STOMP**, **SockJS**
+- Frontend: **JavaScript**, **JQuery**, **Bootstrap**, **Izitoast.js**
+- Highlights:
+  - Developed CRUD operations for job vacancies, staff, applicant forms, and notifications.
+  - Implemented pagination, searching, sorting, and filtering for dashboards.
+  - Created real-time notifications for new applicants using WebSocket.
+  - Designed a custom text editor with JavaScript for job vacancy postings.
+  - Enabled quick vacancy updates (open/close modes) for seamless job management.
+  - Performed JUnit testing and file exporting with Jasper Studio.
+
+### [Towards21 Learning Center & Job Agency]
 - Role: Full-Stack Developer
 - Team: Collaborated with 3 full-stack developers
 - Backend: **Node.js**, **Express.js**, **Mongoose**, **WebSocket**, **TypeScript**
@@ -53,7 +67,7 @@ I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a
   - Integrated internationalization for Myanmar, English, and Japanese.
   - Designed reusable and customizable table components.
 
-### [AXR Insurance Dashboard API](https://github.com/shinewaitun/axr-insurance-api)
+### [AXR Insurance Dashboard API]
 - Role: Backend Developer
 - Team: 3 Frontend Developers, 2 Backend Developers, 2 Testers
 - Backend: **Express.js**, **Sequelize**, **PostgreSQL**, **Inversify.js**
@@ -62,7 +76,7 @@ I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a
   - Implemented migrations, seeders, and robust authentication mechanisms.
   - Built a fully managed request/response/error-handling framework.
 
-### [Cloud Database Migration](https://github.com/shinewaitun/cloud-migration)
+### [Cloud Database Migration]
 - Role: C# Developer
 - Team: 3 Developers
 - Backend: **C#**, **Dropbox API**, **SharePoint**
@@ -71,7 +85,7 @@ I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a
   - Enhanced performance using parallel programming.
   - Resolved Dropbox version conflicts during migration.
 
-### [Bayon App: Digital Real Estate Marketplace](https://github.com/shinewaitun/bayon-app)
+### [Bayon App: Digital Real Estate Marketplace]
 - Role: Frontend Developer
 - Team: 2 Developers, Backend API support from Cambodia
 - Frontend: **Nuxt.js 3**, **TypeScript**, **Pinia**, **TailwindCSS**, **Google Map API**, **Firebase**
@@ -81,7 +95,9 @@ I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a
   - Fully localized app for Myanmar, English, and Cambodian languages.
   - Built responsive and reusable components for the property listing and user profiles.
 
-### [Event and Ticket Management System](https://github.com/shinewaitun/event-management)
+### [Event and Ticket Management System]
+### [API](https://github.com/shinewaitun/event-management-api)
+### [UI](https://github.com/Antaraes/event-management-ui)
 - Role: Full-Stack Developer
 - Team: 8 Full-Stack Developers
 - Backend: **Express.js**, **PostgreSQL**, **Spring Boot**
@@ -90,7 +106,7 @@ I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a
   - Designed and developed CRUD operations for events and tickets.
   - Implemented pagination, filters, and real-time notifications using WebSocket.
 
-### [Hotel Reservation System](https://github.com/shinewaitun/hotel-reservation)
+### [Hotel Reservation System]
 - Role: Full-Stack Developer
 - Team: 3 Developers
 - Backend: **Spring MVC**, **Hibernate**, **MySQL**
@@ -99,7 +115,6 @@ I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a
   - Developed reservation management features with room services.
   - Integrated real-time booking functionalities.
   - Designed a responsive UI for both desktop and mobile views.
-
 ---
 
 ## 🎨 GitHub Stats
@@ -114,7 +129,6 @@ I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shine-wai-tun-a16b242a9)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shinewaitun)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shinewaitun)
 
 ---
 
