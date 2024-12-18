@@ -1,5 +1,3 @@
-![Shine Wai Tun](https://res.cloudinary.com/demo/image/upload/v1602020324/GitHubBanner.jpg)
-
 # Hi there, I'm Shine Wai Tun! 👋
 
 I'm a **Software Engineer** who excels in **Full Stack Web Development**. With a solid background in backend technologies, database administration, and website design, I thrive on solving complex problems and creating impactful solutions. My work is defined by strong creative and analytical skills, meticulous attention to detail, and a collaborative spirit.
